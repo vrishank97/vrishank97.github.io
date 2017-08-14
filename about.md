@@ -3,28 +3,20 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## Vrishank Bhardwaj
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I'm a second year undergraduate student at <a href="http://www.iitg.ernet.in" target="_blank">IIT Guwahati</a>, with a passion for deep learning. For a full list of projects, you can visit my <a href="https://github.com/vrishank97" target="_blank">GitHub</a>.
 
-There are currently two themes built on Poole:
+I am also a <a href="https://www.kaggle.com/vrishank97" target="_blank">Kaggler</a> and a member of the Aquatics club at IIT Guwahati.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+### Technologies I'm comfortable with
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+- Python
+  -Tensorflow
+  -Keras
+  -Scikit-learn
+- C++
+- C
+- Java
+- React Native
+- HTML5, CSS 3
