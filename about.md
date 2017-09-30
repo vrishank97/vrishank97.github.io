@@ -11,12 +11,12 @@ I am also a <a href="https://www.kaggle.com/vrishank97" target="_blank">Kaggler<
 
 ### Technologies I'm comfortable with
 
-- Python
-  -Tensorflow
-  -Keras
-  -Scikit-learn
-- C++
-- C
-- Java
-- React Native
-- HTML5, CSS 3
+* Python
+  *Tensorflow
+  *Keras
+  *Scikit-learn
+* C++
+* C
+* Java
+* React Native
+* HTML5, CSS 3
