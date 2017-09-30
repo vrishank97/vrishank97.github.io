@@ -12,9 +12,9 @@ I am also a <a href="https://www.kaggle.com/vrishank97" target="_blank">Kaggler<
 ### Technologies I'm comfortable with
 
 * Python
-  *Tensorflow
-  *Keras
-  *Scikit-learn
+  * Tensorflow
+  * Keras
+  * Scikit-learn
 * C++
 * C
 * Java
