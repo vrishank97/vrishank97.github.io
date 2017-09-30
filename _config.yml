@@ -9,17 +9,10 @@ permalink:        pretty
 title:            Deeply Learning
 tagline:          'Vrishank Bhardwaj'
 description:      'Vrishank Bhardwaj'
-url:              http://vrishank97.github.io
+url:              http://vrishank.me
 baseurl:          /
-
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
 
 paginate:         5
 
 # Custom vars
 version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
