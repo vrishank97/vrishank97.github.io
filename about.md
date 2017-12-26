@@ -18,8 +18,11 @@ I also participate in competitive machine learning competitions on <a href="http
   * Keras
   * Scikit-learn
   * Numpy and Scipy
-* C++
 * C
+* C++
 * Java
 * React Native
-* HTML5, CSS 3
+* Web Development
+  * HTML5 and CSS3
+  * Flask
+  * Jekyll
