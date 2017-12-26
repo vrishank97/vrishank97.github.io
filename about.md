@@ -17,6 +17,7 @@ I also participate in competitive machine learning competitions on <a href="http
   * Tensorflow
   * Keras
   * Scikit-learn
+  * Numpy and Scipy
 * C++
 * C
 * Java
